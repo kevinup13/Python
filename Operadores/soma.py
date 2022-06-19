@@ -4,6 +4,7 @@
 # soma dos numeros e impressao de resultado
 
 print("\n=== Seja Bem vindo! ===\n")
+print("---"*10)
 
 while True:
     x = int(input("Digite o primeiro numero: "))
