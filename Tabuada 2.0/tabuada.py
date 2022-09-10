@@ -56,8 +56,6 @@ while option != 5:
 
     elif option > 5:
         print('Opção inválida! Tente novamente.')
-    elif option != int():
-        print('Opção inválida!.')
 
     print('--' * 30)
     sleep(1)
